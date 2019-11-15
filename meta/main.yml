@@ -1,7 +1,4 @@
 ---
-dependencies:
-  - geerlingguy.php
-
 galaxy_info:
   author: geerlingguy
   description: Tideways PHP Profiler Extension for Linux
